@@ -1,5 +1,5 @@
 # 💫 About Me:
-Being in my Final year, I have been on a path to specialize myself what interests me in the world of cutting-edge<br>technologies. This motivates me to simplify things with technology. I’m interested in collaborating for projects in Software<br>Development, Data Analytics and Machine Learning domain. 
+Being in my Final year, I have been on a path to specialize myself what interests me in the world of cutting-edge technologies. This motivates me to simplify things with technology. I’m interested in collaborating for projects in Software Development, Data Analytics and Machine Learning domain. 
 
 
 ## 🌐 Socials:
